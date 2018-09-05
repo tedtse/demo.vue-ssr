@@ -1,0 +1,6 @@
+{
+  "presets": [
+    ["env", { "module": false }],
+    "stage-2"
+  ]
+}
